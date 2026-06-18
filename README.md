@@ -73,8 +73,8 @@ Various responsive websites built using HTML, CSS, and JavaScript.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn Profile
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/gamal-yahia-64690029a/
+- Email: gamal.0523028@gmail.com
 
 ---
 
