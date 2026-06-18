@@ -1,5 +1,3 @@
-# Hi, I'm Gamal Yahia 👋
-
 ![Banner](https://raw.githubusercontent.com/gamalyahia/gamalyahia/main/banner.png)
 
 💻 Backend Developer | .NET Enthusiast | AI Automation Learner
