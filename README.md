@@ -1,6 +1,6 @@
 # Hi, I'm Gamal Yahia 👋
 
-![Banner](sandbox:/mnt/data/image(15).png)
+![Banner](https://raw.githubusercontent.com/gamalyahia/gamalyahia/main/banner.png)
 
 💻 Backend Developer | .NET Enthusiast | AI Automation Learner
 
