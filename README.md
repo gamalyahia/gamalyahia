@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Gamal Yahia 👋
 
-<!--
-**gamalyahia/gamalyahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Backend Developer specializing in C# and .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Developer with experience in HTML, CSS, and JavaScript
+
+🤖 Interested in AI Automation and Software Engineering
+
+---
+
+## 🚀 About Me
+
+- Currently studying Computer Science
+- Passionate about building real-world applications
+- Interested in Backend Development, APIs, and AI Automation
+- Always learning new technologies and improving my skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+- C#
+- C++
+- JavaScript
+- SQL
+
+### Backend
+- ASP.NET Core
+- REST APIs
+- Entity Framework Core
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- WPF
+
+### Database
+- SQL Server
+
+### Tools
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### ♟️ Chess Game
+Desktop chess application built using C# and WPF.
+
+### 📋 Capstone Project Management System
+A system for managing capstone projects, teams, tasks, and progress tracking.
+
+### 🌐 Web Development Projects
+Various responsive websites built using HTML, CSS, and JavaScript.
+
+---
+
+## 📈 Current Goals
+
+- Improve my .NET Backend Development skills
+- Build scalable REST APIs
+- Learn Software Architecture and Design Patterns
+- Explore AI Automation solutions
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Your LinkedIn Profile
+- Email: your.email@example.com
+
+---
+
+⭐ Feel free to check out my repositories and leave a star if you find something useful!
